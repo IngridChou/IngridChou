@@ -12,5 +12,6 @@
 <h3>Design</h3>
 <p>
   <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img alt="inDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 <h3>Development</h3>
