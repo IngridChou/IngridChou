@@ -1,9 +1,16 @@
-<h2>Hi, My Name is Ingrid Chou 🌟</h2>
+<h2>🌟 Hi, My Name is Ingrid Chou</h2>
 
-<p>✨ Check out my portfolio:</p>
+<p>✨ Take a look at my portfolio</p>
 
-<a href='https://ingrid-chou.vercel.app'><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aabbff?style=for-the-badge&logo=react&logoColor=white"/></a>
+<p align="center">
+  <a href='https://ingrid-chou.vercel.app'>
+    <img alt="Ingrid Chou's Portfolio" src="https://img.shields.io/badge/Portfolio-aabbff?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+</p>
 
 <h2>Skills</h2>
 <h3>Design</h3>
+<p>
+  <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
+</p>
 <h3>Development</h3>
