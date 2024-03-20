@@ -11,6 +11,6 @@
 <h2>Skills</h2>
 <h3>Design</h3>
 <p>
-  <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
+  <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 <h3>Development</h3>
